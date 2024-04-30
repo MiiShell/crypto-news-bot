@@ -1,4 +1,5 @@
 #basis
+tweepy
 requests
 python-telegram-bot
 
