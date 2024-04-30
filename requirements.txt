@@ -1,0 +1,10 @@
+#basis
+requests
+python-telegram-bot
+
+## Features
+numpy
+pandas
+matplotlib
+logging
+datetime
